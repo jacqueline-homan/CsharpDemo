@@ -67,19 +67,41 @@ namespace CsharpConsoleApp
 				Console.WriteLine("Result was false");
 			}
 
+			int value = 2;
+			if (value == 0)
+			{
+				Console.WriteLine("Value is 0");
+			}
+			else if (value == 1)
+			{
+				Console.WriteLine("Value is 1");
+			}
+			else
+			{
+				Console.WriteLine("Value is something else");
+			}
+
+			//switch and case
+			int val = 3;
+			switch (val)
+			{
+			case 0:
+				Console.WriteLine("Value is 0");
+				break;
+
+			case 1:
+				Console.WriteLine("Value is 1");
+				break;
+
+			default:
+				Console.WriteLine("Value is NaN");
+				break;
+			}
+				
+				
 			#endregion
 		}
 	
-	
-
-		//for loop
-		//for (int counter = 0; counter < 10; counter++)
-		//{
-		//    Console.WriteLine(counter);
-		//}
-
-
-
 	}
 
 
