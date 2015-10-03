@@ -1,0 +1,5 @@
+/home/jacqueline/C-sharp/CsharpConsoleApp/CsharpConsoleApp/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/jacqueline/C-sharp/CsharpConsoleApp/CsharpConsoleApp/bin/Debug/CsharpConsoleApp.exe.mdb
+/home/jacqueline/C-sharp/CsharpConsoleApp/CsharpConsoleApp/bin/Debug/CsharpConsoleApp.exe
+/home/jacqueline/C-sharp/CsharpConsoleApp/CsharpConsoleApp/obj/x86/Debug/CsharpConsoleApp.exe
+/home/jacqueline/C-sharp/CsharpConsoleApp/CsharpConsoleApp/obj/x86/Debug/CsharpConsoleApp.exe.mdb
